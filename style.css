@@ -5,7 +5,7 @@
 
        #wrapper{
         background: white;
-        width: 960px;
+        width: 95%; max-width: 960px;
         margin: 0 auto;
         padding:15px 10px 0px;
        }
@@ -103,7 +103,7 @@
        #mainContent .postGrid{
          list-style-type: none;
          display: block;
-         width: 660px;
+         width: 100%; max-width: 660px;
          height: auto;
          float: left;
          /*border-bottom: 1px dashed #cecec2;*/
